@@ -1,0 +1,9 @@
+/gen
+/bin
+/.classpath
+/.settings
+/lint.xml
+project.properties
+*.DS_Store
+/build
+local.properties
