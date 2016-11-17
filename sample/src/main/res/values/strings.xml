@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeaderFooterRecyclerView</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="reversed_list">Reversed List</string>
+    <string name="indicator">%1$s/3</string>
+    <string name="header">Header</string>
+    <string name="footer">Footer</string>
+</resources>
