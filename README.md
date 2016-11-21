@@ -16,13 +16,16 @@ HeaderView 的原作者：Bartek Lipinski（https://github.com/blipinsk）
 目前仅支持LinearLayoutManeger和其子类GridLayoutManager的RecyclerView，其余需要读按需要自行开发。
 
 ##使用方法：
+代码：
 ```Java
-    RecyclerViewHeader recyclerHeader = (RecyclerViewHeader) view.findViewById(R.id.header);
+RecyclerViewHeader recyclerHeader = (RecyclerViewHeader) view.findViewById(R.id.header);
 recyclerHeader.attachTo(recycler);
 
 RecyclerViewFooter recyclerFooter = (RecyclerViewFooter) view.findViewById(R.id.footer);
 recyclerFooter.attachTo(recycler);
 ```
+
+布局文件：
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
