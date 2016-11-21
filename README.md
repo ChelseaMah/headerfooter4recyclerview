@@ -4,10 +4,9 @@
 
 
 
-## HeaderView[^footnote]
- [^footnote]:https://github.com/blipinsk/RecyclerViewHeader.
+## HeaderView 
  
-HeaderView 的原作者：Bartek Lipinski（https://github.com/blipinsk）
+HeaderView 的原作者：Bartek Lipinski（https://github.com/blipinsk/RecyclerViewHeader）
 我只对HeaderView进行了微小的改动。
 ## FooterVew
 顺着HeaderView的思路，写出了FooterView。
