@@ -7,3 +7,6 @@ project.properties
 *.DS_Store
 /build
 local.properties
+.idea/
+.gradle/
+*.iml
