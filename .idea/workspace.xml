@@ -20,14 +20,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34466f67-d2f5-4f27-8127-a8256bc94f94" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerheaderforrecyclerview/.gitignore" afterPath="$PROJECT_DIR$/footerheaderforrecyclerview/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerheaderforrecyclerview/build.gradle" afterPath="$PROJECT_DIR$/footerheaderforrecyclerview/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footerheaderforrecyclerview/footerheaderforrecyclerview.iml" afterPath="$PROJECT_DIR$/footerheaderforrecyclerview/footerheaderforrecyclerview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/.gitignore" afterPath="$PROJECT_DIR$/sample/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build.gradle" afterPath="$PROJECT_DIR$/sample/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/sample.iml" afterPath="$PROJECT_DIR$/sample/sample.iml" />
     </list>
     <ignored path="FooterViewForRecyclerView.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3678,6 +3670,14 @@
       <option name="presentableId" value="Default" />
       <updated>1478845846179</updated>
     </task>
+    <task id="LOCAL-00001" summary="update gradle">
+      <created>1505976496599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505976496599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3745,6 +3745,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="update gradle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -4085,6 +4089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -4092,6 +4097,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
